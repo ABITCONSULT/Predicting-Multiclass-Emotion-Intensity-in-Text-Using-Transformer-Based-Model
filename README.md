@@ -1,0 +1,2 @@
+# Predicting-Multiclass-Emotion-Intensity-in-Text-Using-Transformer-Based-Model
+Code for CIC-NLP at SemEval-2025 Task 11. This project fine-unes bert-base-uncased to predict multi-class emotion intensity levels (0–3) for anger, fear, joy, sadness, and surprise. The system counters severe class imbalances, achieving an accuracy score of 0.8017 for sadness and a competitive 0.5207 F1-macro for fear.
